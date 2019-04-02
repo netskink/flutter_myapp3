@@ -1,6 +1,6 @@
 # flutter_myapp3
 
-A new Flutter project.
+A new Flutter project.  From https://flutter.dev/docs/development/ui/layout/tutorial
 
 ## Getting Started
 
